@@ -1,0 +1,19 @@
+<!---
+- 👋 Hi, I’m @saayuj
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+saayuj/saayuj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+Hi, I am Saayuj. Welcome to my GitHub!👋
+
+- 🌱 I am a first-year graduate student at the University of Pennsylvania, pursuing a Master's in Robotics.
+- 👀 I am interested in controls, mechatronics, AI and ML.
+
+Head over to the repositories section to view the various projects I have worked on :)
