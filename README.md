@@ -2,13 +2,13 @@
 
 **Co-founder @ Novara Robotics | MS Robotics @ UPenn**
 
-I'm a robotics engineer focused on getting robots to work in the real world. I specialize in robotic manipulation, sim-to-real transfer, and safe contact control.
+Hey! I'm a robotics engineer working on getting robots to actually work in the real world. I focus on robotic manipulation, sim-to-real transfer, and autonomous navigation.
 
-🎓 Currently pursuing my MS in Robotics @ University of Pennsylvania | B.Tech with Honors from IIT Bombay
+🎓 B.Tech with Honors in Mechanical Engineering from IIT Bombay
 
-🚀 Building Novara Robotics and researching safe manipulation at the AMP Lab
+🚀 Currently building Novara Robotics
 
-🔗 <a href="https://saayuj.github.io/" target="_blank">Website</a> | <a href="https://www.linkedin.com/in/saayuj-deshpande/" target="_blank">LinkedIn</a>
+🔗 [Website](https://saayuj.github.io/) | [LinkedIn](https://www.linkedin.com/in/saayuj-deshpande/) | [Email](mailto:saayuj@outlook.com)
 
 ---
 
