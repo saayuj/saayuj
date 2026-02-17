@@ -8,7 +8,7 @@ I'm a robotics engineer focused on getting robots to work in the real world. I s
 
 🚀 Building Novara Robotics and researching safe manipulation at the AMP Lab
 
-🔗 [Website](https://saayuj.github.io/) | [LinkedIn](https://www.linkedin.com/in/saayuj-deshpande/)
+🔗 <a href="https://saayuj.github.io/" target="_blank">Website</a> | <a href="https://www.linkedin.com/in/saayuj-deshpande/" target="_blank">LinkedIn</a>
 
 ---
 
