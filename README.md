@@ -1,19 +1,15 @@
-<!---
-- 👋 Hi, I’m @saayuj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Saayuj Deshpande
 
-saayuj/saayuj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Co-founder @ Novara Robotics | MS Robotics @ UPenn**
 
-Hi, I am Saayuj. Welcome to my GitHub!👋
+I'm a robotics engineer focused on getting robots to work in the real world. I specialize in robotic manipulation, sim-to-real transfer, and safe contact control.
 
-- 🌱 I am a first-year graduate student at the University of Pennsylvania, pursuing a Master's in Robotics.
-- 👀 I am interested in controls, mechatronics, AI and ML.
+🎓 Currently pursuing my MS in Robotics @ University of Pennsylvania | B.Tech with Honors from IIT Bombay
 
-Head over to the repositories section to view the various projects I have worked on :)
+🚀 Building Novara Robotics and researching safe manipulation at the AMP Lab
+
+🔗 [Website](https://saayuj.github.io/) | [LinkedIn](https://www.linkedin.com/in/saayuj-deshpande/)
+
+---
+
+👇 Check out my pinned repositories below to see what I'm working on
