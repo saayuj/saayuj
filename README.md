@@ -12,4 +12,4 @@ Hey! I'm a robotics engineer working on getting robots to actually work in the r
 
 ---
 
-👇 Check out my pinned repositories below to see what I'm working on
+👇 Check out my pinned repositories below to see what I'm working on!
