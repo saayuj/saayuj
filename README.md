@@ -1,13 +1,11 @@
 # Saayuj Deshpande
 
-**MS Robotics @ UPenn**
+### Co-Founder & CEO at [Novara Robotics](https://www.novararobotics.com/)
 
-Hey! I'm a robotics engineer working on getting robots to actually work in the real world. I focus on robotic manipulation, sim-to-real transfer, and autonomous navigation.
+I'm building Deri — an AI reliability engineer for factories that helps production and maintenance teams detect problems earlier, diagnose failures faster, and reduce unplanned downtime across machines, robots, and production systems.
 
-🎓 B.Tech with Honors in Mechanical Engineering from IIT Bombay
+MSE in Robotics from the University of Pennsylvania · BTech with Honors in Mechanical Engineering from IIT Bombay
 
-🔗 [Website](https://saayuj.github.io/) | [LinkedIn](https://www.linkedin.com/in/saayuj-deshpande/) | [Email](mailto:saayuj@outlook.com)
+Most of my current work lives in Novara's private repositories. The pinned projects below highlight earlier work in robotics, autonomy, control systems, and machine learning.
 
----
-
-👇 Check out my pinned repositories below to see what I'm working on!
+[Novara Robotics](https://www.novararobotics.com/) | [LinkedIn](https://www.linkedin.com/in/saayuj-deshpande/) | [Email](mailto:saayuj@novararobotics.com) | [Website](https://saayuj.github.io/)
