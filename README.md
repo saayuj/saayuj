@@ -1,6 +1,6 @@
 # Saayuj Deshpande
 
-### Co-Founder and CEO @ [Novara Robotics](https://www.novararobotics.com/)
+### Co-Founder and CEO @ Novara Robotics
 
 Building AI and robotics for manufacturing.
 
