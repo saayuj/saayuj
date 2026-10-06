@@ -2,7 +2,7 @@
 
 ### Co-Founder and CEO @ [Novara Robotics](https://www.novararobotics.com/)
 
-I'm building Deri, an AI reliability engineer for factories that helps production and maintenance teams detect problems earlier, diagnose failures faster, and reduce unplanned downtime across machines, robots, and production systems.
+Building AI and robotics for manufacturing.
 
 MSE in Robotics from the University of Pennsylvania · BTech with Honors in Mechanical Engineering from IIT Bombay
 
